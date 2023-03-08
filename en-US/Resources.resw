@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Settings_GoogleTranslate_Header.Header" xml:space="preserve">
+    <value>Google translate</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_From.Header" xml:space="preserve">
+    <value>Translate from</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_From.Description" xml:space="preserve">
+    <value>To switch between languages use switch keyboard layout </value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Header" xml:space="preserve">
+    <value>Translate to</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Description" xml:space="preserve">
+    <value>To switch between languages use switch keyboard layout </value>
+  </data>
+  <data name="Settings_Hotkeys_Header.Header" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="Settings_App_Header.Header" xml:space="preserve">
+    <value>Application settings</value>
+  </data>
+  <data name="Settings_App_Setting_Background.Header" xml:space="preserve">
+    <value>Background</value>
+  </data>
+  <data name="Settings_App_Setting_Startup.Header" xml:space="preserve">
+    <value>Run on startup</value>
+  </data>
+  <data name="Settings_App_Setting_Theme.Header" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Acrylic.Text" xml:space="preserve">
+    <value>Acrylic</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Mica.Text" xml:space="preserve">
+    <value>Mica</value>
+  </data>
+  <data name="Settings_BackgroundOptions_MicaAlt.Text" xml:space="preserve">
+    <value>Mica alternative</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Off.Text" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_OpenTranslateWindow.Header" xml:space="preserve">
+    <value>Open translate window</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Use system theme</value>
+  </data>
+  <data name="Settings_App_Setting_Debug.Header" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  <data name="Settings_App_Setting_Language.Header" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Reset to default settings</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>Yes, reset settings</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>All settings will be reset. Do you want to continue?</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_ResetButton.Content" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="Settings_LanguageOptions_LanguageNotSelected.Text" xml:space="preserve">
+    <value>Language not selected</value>
+  </data>
+  <data name="Settings_LanguageOptions_SystemLanguage.Text" xml:space="preserve">
+    <value>Use system language</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Type a hotkey</value>
+  </data>
+  <data name="HotkeyBox_Input.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Include Win, Shift, Alt or Ctrl key</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Remove hotkey</value>
+  </data>
+  <data name="Search_SearchBox_Placeholder" xml:space="preserve">
+    <value>Translate from {0} to {1}</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Settings.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="Taskbar_TaskbarIcon_ToolTipText" xml:space="preserve">
+    <value>Double click to translate</value>
+  </data>
+  <data name="Taskbar_TaskbarIcon_ToolTipText_Hotkey" xml:space="preserve">
+    <value>Double click or {0} to translate</value>
+    <comment>{0} will be replaced on shurtcut</comment>
+  </data>
+  <data name="Settings_About_MagicPods.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Add a little magic to your AirPods</value>
+  </data>
+  <data name="Settings_About_MagicSelect.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Copy text from any image</value>
+  </data>
+  <data name="Settings_About_YAD.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Run, jump, and dodge in a dangerous adventure game</value>
+  </data>
+  <data name="Settings_Support_Header.Header" xml:space="preserve">
+    <value>Support and community</value>
+  </data>
+  <data name="Settings_Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Join our community, report bugs, stay tuned for news and updates and discussions</value>
+  </data>
+  <data name="Settings_Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Community</value>
+  </data>
+  <data name="Settings_Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Translate, edit or add new languages</value>
+  </data>
+  <data name="Settings_Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Translate application</value>
+  </data>
+  <data name="Search_TeachingTip_Buttons_Finish" xml:space="preserve">
+    <value>Got it</value>
+  </data>
+  <data name="Search_TeachingTip_Buttons_Next" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="Search_TeachingTip_Buttons_Settings" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="Search_TeachingTip_OpenSettings.Subtitle" xml:space="preserve">
+    <value>To configure the translation language, appearance and keyboard shortcuts, right-click on the tray icon and select «Settings» or use the {0} shortcut while in the translation window</value>
+    <comment>{0} will be replaced on shurtcut</comment>
+  </data>
+  <data name="Search_TeachingTip_SwitchLanguage.Subtitle" xml:space="preserve">
+    <value>To switch language, switch your current keyboard layout</value>
+  </data>
+  <data name="Search_TeachingTip_TranslationResult.Subtitle" xml:space="preserve">
+    <value>Translation results can be selected and copied</value>
+  </data>
+  <data name="Search_TeachingTip_Welcome.Subtitle" xml:space="preserve">
+    <value>You can start translating by opening the application, by double-clicking on the tray icon, or by pressing the hotkey {0}</value>
+    <comment>{0} will be replaced on shurtcut</comment>
+  </data>
+  <data name="Search_TeachingTip_Welcome.Title" xml:space="preserve">
+    <value>Welcome to MagicTranslate</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Startup disabled by group policy, or not supported on this device.</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Startup disabled by group policy</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Open Windows settings on Application page, go to Startup, enable «{0}» and restart the app.</value>
+    <comment>{0} will be replaced on application name</comment>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Go to Startup</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Startup disabled manually</value>
+  </data>
+</root>
