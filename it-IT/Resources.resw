@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,191 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_Hotkeys_Header.Header" xml:space="preserve">
+    <value>Tasti di scelta rapida</value>
+  </data>
+  <data name="Settings_App_Header.Header" xml:space="preserve">
+    <value>Impostazioni applicazione</value>
+  </data>
+  <data name="Settings_App_Setting_Startup.Header" xml:space="preserve">
+    <value>Esegui all'avvio</value>
+  </data>
+  <data name="Settings_App_Setting_Theme.Header" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Settings_App_Setting_Background.Header" xml:space="preserve">
+    <value>Background</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Mica.Text" xml:space="preserve">
+    <value>Mica</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Off.Text" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_OpenTranslateWindow.Header" xml:space="preserve">
+    <value>Apri finestra di traduzione</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Scuro</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Usa il tema di sistema</value>
+  </data>
+  <data name="Settings_App_Setting_Debug.Header" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  <data name="Settings_App_Setting_Language.Header" xml:space="preserve">
+    <value>Lingua</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Header.Header" xml:space="preserve">
+    <value>Google Traduttore</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_From.Header" xml:space="preserve">
+    <value>Traduci da</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Description" xml:space="preserve">
+    <value>Per passare da una lingua all'altra, usa il pulsante di commutazione layout tastiera</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Acrylic.Text" xml:space="preserve">
+    <value>Acrilico</value>
+  </data>
+  <data name="Settings_BackgroundOptions_MicaAlt.Text" xml:space="preserve">
+    <value>Mica (alternativo)</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Chiaro</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Ripristina alle impostazioni di default</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>Tutte le impostazioni saranno ripristinate. Vuoi continuare?</value>
+  </data>
+  <data name="Taskbar_TaskbarIcon_ToolTipText_Hotkey" xml:space="preserve">
+    <value>Doppio click o {0} per tradurre</value>
+    <comment>{0} will be replaced on shurtcut</comment>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>Sì, ripristina le impostazioni</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_ResetButton.Content" xml:space="preserve">
+    <value>Ripristina</value>
+  </data>
+  <data name="Settings_LanguageOptions_LanguageNotSelected.Text" xml:space="preserve">
+    <value>Lingua non selezionata</value>
+  </data>
+  <data name="Settings_About_MagicPods.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Aggiungi un po' di magia ai tuoi AirPods</value>
+  </data>
+  <data name="Settings_About_MagicSelect.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Copia testo da qualsiasi immagine</value>
+  </data>
+  <data name="Settings_Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Entra a far parte della nostra community, segnala bugs, rimani aggiornato su novità, aggiornamenti e discussioni</value>
+  </data>
+  <data name="Search_TeachingTip_OpenSettings.Subtitle" xml:space="preserve">
+    <value>Per configurare la lingua di traduzione, aspetto e scorciatoie da tastiera, clicca con il tasto destro sull'icona della barra e seleziona «{0}» o usa {1} come scorciatoia nella finestra di traduzione</value>
+    <comment>{0} will be replaced on shurtcut</comment>
+  </data>
+  <data name="Search_TeachingTip_Welcome.Subtitle" xml:space="preserve">
+    <value>Puoi iniziare a tradurre aprendo l'applicazione, cliccando due volte sull'icona nella barra o premendo il tasto scorciatoia {0}</value>
+    <comment>{0} will be replaced on shurtcut</comment>
+  </data>
+  <data name="Settings_LanguageOptions_SystemLanguage.Text" xml:space="preserve">
+    <value>Usa lingua di sistema</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Digita un tasto di scelta rapida</value>
+  </data>
+  <data name="HotkeyBox_Input.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Includi i tasti Win,Shift, Alt o Ctrl</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Rimuovi tasto di scelta rapida</value>
+  </data>
+  <data name="Search_SearchBox_Placeholder" xml:space="preserve">
+    <value>Traduci da {0} a {1}</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
+    <value>Esci</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Settings.Text" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+  <data name="Taskbar_TaskbarIcon_ToolTipText" xml:space="preserve">
+    <value>Doppio click per tradurre</value>
+  </data>
+  <data name="Settings_About_YAD.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Corri, salta e schiva in un pericoloso gioco d'avventura</value>
+  </data>
+  <data name="Settings_Support_Header.Header" xml:space="preserve">
+    <value>Supporto e community</value>
+  </data>
+  <data name="Settings_Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Community</value>
+  </data>
+  <data name="Settings_Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Traduci, modifica o aggiungi nuove lingue</value>
+  </data>
+  <data name="Settings_Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Traduci applicazione</value>
+  </data>
+  <data name="Search_TeachingTip_Buttons_Finish" xml:space="preserve">
+    <value>Capito</value>
+  </data>
+  <data name="Search_TeachingTip_Buttons_Next" xml:space="preserve">
+    <value>Avanti</value>
+  </data>
+  <data name="Search_TeachingTip_Buttons_Settings" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+  <data name="Search_TeachingTip_SwitchLanguage.Subtitle" xml:space="preserve">
+    <value>Per cambiare lingua, cambia il layout della tastiera attuale</value>
+  </data>
+  <data name="Search_TeachingTip_TranslationResult.Subtitle" xml:space="preserve">
+    <value>I risultati della traduzione possono essere selezionati e copiati</value>
+  </data>
+  <data name="Search_TeachingTip_Welcome.Title" xml:space="preserve">
+    <value>Benvenuto in MagicTranslate</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Chiudi</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Avvio disabilitato dai criteri di gruppo o non supportato su questo dispositivo.</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Avvio disabilitato dai criteri di gruppo</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Apri le impostazioni di Windows nella finestra dell'applicazione, vai su «Avvio», abilita «{0}» e riavvia l'applicazione.</value>
+    <comment>{0} will be replaced on application name</comment>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Vai su Avvio</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Avvio disabilitato manualmente</value>
+  </data>
+  <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+  <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Riavvia l'applicazione per applicare le impostazioni</value>
+  </data>
+  <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Riavvio</value>
+  </data>
+  <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Riavvio richiesto</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_From.Description" xml:space="preserve">
+    <value>Per passare da una lingua all'altra, usa il pulsante di commutazione layout tastiera</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Header" xml:space="preserve">
+    <value>Traduci in</value>
+  </data>
 </root>
