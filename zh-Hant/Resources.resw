@@ -143,7 +143,7 @@
     <value>設定</value>
   </data>
   <data name="Taskbar_TaskbarIcon_ToolTipText_Hotkey" xml:space="preserve">
-    <value>雙擊或按下 {0} 進行翻譯</value>
+    <value>雙擊或 {0} 進行翻譯</value>
     <comment>{0} will be replaced on shurtcut</comment>
   </data>
   <data name="Settings_About_MagicPods.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
