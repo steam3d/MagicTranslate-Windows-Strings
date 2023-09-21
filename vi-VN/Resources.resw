@@ -206,13 +206,13 @@
     <value>Đóng</value>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
-    <value>Khởi động bị vô hiệu hóa bởi chính sách nhóm hoặc không được hỗ trợ trên thiết bị này.</value>
+    <value>Khởi động cùng Windows bị tắt bởi group policy, hoặc nó không được hỗ trợ trên thiết bị này.</value>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
     <value>Khởi động bị vô hiệu hóa bởi chính sách nhóm</value>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
-    <value>Huỷ</value>
+    <value>Huỷ bỏ</value>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
     <value>Mở cài đặt Windows trên trang Application, đi tới «Startup», bật «{0}» và khởi động lại ứng dụng.</value>
@@ -225,7 +225,7 @@
     <value>Khởi động bị tắt theo cách thủ công</value>
   </data>
   <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
-    <value>Huỷ</value>
+    <value>Huỷ bỏ</value>
   </data>
   <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.Content" xml:space="preserve">
     <value>Khởi động lại ứng dụng để áp dụng cài đặt</value>
