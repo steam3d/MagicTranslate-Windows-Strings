@@ -224,7 +224,7 @@
     <comment>{0} will be replaced on application name</comment>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
-    <value>前往启动项目</value>
+    <value>转到启动</value>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
     <value>手动停用开机启动</value>
