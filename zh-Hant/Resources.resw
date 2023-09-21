@@ -193,7 +193,7 @@
     <value>關閉</value>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
-    <value>開機啟動已被群組原則停用，或者此裝置不支援該功能。</value>
+    <value>開機自動執行功能已被群組原則停用，或者此裝置無法支援。</value>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
     <value>開機啟動已被群組原則停用</value>
