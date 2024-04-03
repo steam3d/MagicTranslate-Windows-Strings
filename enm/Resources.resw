@@ -64,4 +64,19 @@
   <data name="Settings_GoogleTranslate_Setting_From.Header" xml:space="preserve">
     <value>Traducir desde</value>
   </data>
+  <data name="Settings_GoogleTranslate_Setting_From.Description" xml:space="preserve">
+    <value>To switch between languages use switch keyboard layout</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Header" xml:space="preserve">
+    <value>Translation</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Description" xml:space="preserve">
+    <value>To switch your language use switch keyboard layout</value>
+  </data>
+  <data name="Settings_Hotkeys_Header.Header" xml:space="preserve">
+    <value>Shortcuts</value>
+  </data>
+  <data name="Settings_App_Header.Header" xml:space="preserve">
+    <value>App Settings</value>
+  </data>
 </root>
