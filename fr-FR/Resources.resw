@@ -126,7 +126,7 @@
     <value>Oui, réinitialiser les paramètres</value>
   </data>
   <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
-    <value>Tous les paramètres seront réinitialisé. Voulez-vous continuer ?</value>
+    <value>Tous les paramètres seront réinitialisés. Voulez-vous continuer ?</value>
   </data>
   <data name="Settings_App_Setting_ResetSettings_ResetButton.Content" xml:space="preserve">
     <value>Réinitialiser</value>
@@ -204,7 +204,7 @@
     <comment>{0} will be replaced on application name</comment>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
-    <value>Allez dans Démarrage</value>
+    <value>Allez dans démarrage</value>
   </data>
   <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
     <value>Démarrage désactivé manuellement</value>
