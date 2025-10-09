@@ -71,13 +71,13 @@
     <value>Tema</value>
   </data>
   <data name="Settings_App_Setting_Background.Header" xml:space="preserve">
-    <value>Background</value>
+    <value>Sfondo</value>
   </data>
   <data name="Settings_BackgroundOptions_Mica.Text" xml:space="preserve">
     <value>Mica</value>
   </data>
   <data name="Settings_BackgroundOptions_Off.Text" xml:space="preserve">
-    <value>Off</value>
+    <value>Disattivato</value>
   </data>
   <data name="Settings_Hotkeys_Setting_OpenTranslateWindow.Header" xml:space="preserve">
     <value>Apri finestra di traduzione</value>
