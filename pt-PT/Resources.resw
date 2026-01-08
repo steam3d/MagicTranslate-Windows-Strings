@@ -65,13 +65,13 @@
     <value>Traduzir para</value>
   </data>
   <data name="Settings_GoogleTranslate_Setting_To.Description" xml:space="preserve">
-    <value>Para alternar entre idiomas, utilize a mudança de disposição do teclado</value>
+    <value>Para alternar entre idiomas, use a opção alterar layout do teclado</value>
   </data>
   <data name="Settings_Hotkeys_Header.Header" xml:space="preserve">
     <value>Teclas de atalho</value>
   </data>
   <data name="Settings_App_Header.Header" xml:space="preserve">
-    <value>Definições de aplicação</value>
+    <value>Definições da aplicação</value>
   </data>
   <data name="Settings_App_Setting_Background.Header" xml:space="preserve">
     <value>Fundo</value>
@@ -95,7 +95,7 @@
     <value>Desligado</value>
   </data>
   <data name="Settings_GoogleTranslate_Setting_From.Description" xml:space="preserve">
-    <value>Para alternar entre idiomas, use a mudança de disposição do teclado</value>
+    <value>Para alternar entre idiomas, use a opção alterar layout do teclado</value>
   </data>
   <data name="Settings_Hotkeys_Setting_OpenTranslateWindow.Header" xml:space="preserve">
     <value>Abrir janela de tradução</value>
@@ -104,13 +104,13 @@
     <value>Adiciona um pouco de magia aos teus AirPods</value>
   </data>
   <data name="Settings_GoogleTranslate_Header.Header" xml:space="preserve">
-    <value>Tradutor Google</value>
+    <value>Google tradutor</value>
   </data>
   <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
     <value>Usar tema do sistema</value>
   </data>
   <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
-    <value>Todas as definições serão restauradas. Deseja continuar?</value>
+    <value>Todas as configurações serão redefinidas. Deseja continuar?</value>
   </data>
   <data name="Settings_Support_Setting_Discord.Description" xml:space="preserve">
     <value>Junta-te à nossa comunidade, reporta erros, fica atento às novidades e atualizações e participa em discussões</value>
@@ -131,7 +131,7 @@
     <value>Idioma</value>
   </data>
   <data name="Settings_App_Setting_ResetSettings.Header" xml:space="preserve">
-    <value>Restaurar definições de fábrica</value>
+    <value>Redefinir para definições de fábrica</value>
   </data>
   <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
     <value>Sim, repor definições de fábrica</value>
@@ -149,7 +149,7 @@
     <value>Escreva uma tecla de atalho</value>
   </data>
   <data name="HotkeyBox_Input.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
-    <value>Inclua a tecla Win, Shift, Alt ou Ctrl</value>
+    <value>Incluir teclas Win, Shift, Alt ou Ctrl</value>
   </data>
   <data name="HotkeyBox_Button_Remove.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
     <value>Remover tecla de atalho</value>
@@ -194,10 +194,10 @@
     <value>Definições</value>
   </data>
   <data name="Search_TeachingTip_Buttons_Finish" xml:space="preserve">
-    <value>Percebido</value>
+    <value>Entendido</value>
   </data>
   <data name="Search_TeachingTip_SwitchLanguage.Subtitle" xml:space="preserve">
-    <value>Para mudar de idioma, altere o formato de teclado atual.</value>
+    <value>Para mudar o idioma, altere o layout atual do teclado</value>
   </data>
   <data name="Search_TeachingTip_TranslationResult.Subtitle" xml:space="preserve">
     <value>Os resultados da tradução podem ser selecionados e copiados</value>
