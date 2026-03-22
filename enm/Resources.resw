@@ -79,4 +79,10 @@
   <data name="Settings_App_Header.Header" xml:space="preserve">
     <value>App Settings</value>
   </data>
+  <data name="Settings_App_Setting_Background.Header" xml:space="preserve">
+    <value>Background</value>
+  </data>
+  <data name="Settings_App_Setting_Startup.Header" xml:space="preserve">
+    <value>Run on startup</value>
+  </data>
 </root>
