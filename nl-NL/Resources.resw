@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_GoogleTranslate_Setting_From.Header" xml:space="preserve">
+    <value>Vertaal van</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_From.Description" xml:space="preserve">
+    <value>Gebruik 'wissel toetsenbord-layout' om te wisselen tussen talen</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Header" xml:space="preserve">
+    <value>Vertaal naar</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Description" xml:space="preserve">
+    <value>Gebruik 'wissel toetsenbord-layout' om te wisselen tussen talen</value>
+  </data>
+  <data name="Settings_Hotkeys_Header.Header" xml:space="preserve">
+    <value>Sneltoetsen</value>
+  </data>
+  <data name="Settings_App_Header.Header" xml:space="preserve">
+    <value>Applicatie-instellingen</value>
+  </data>
+  <data name="Settings_App_Setting_Background.Header" xml:space="preserve">
+    <value>Achtergrond</value>
+  </data>
+  <data name="Settings_App_Setting_Startup.Header" xml:space="preserve">
+    <value>Voer MagicPods uit met opstarten</value>
+  </data>
+  <data name="Settings_App_Setting_Theme.Header" xml:space="preserve">
+    <value>Thema</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Acrylic.Text" xml:space="preserve">
+    <value>Acryl</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Off.Text" xml:space="preserve">
+    <value>Uit</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_OpenTranslateWindow.Header" xml:space="preserve">
+    <value>Open vertaalvenster</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Donker</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Licht</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Gebruik systeem thema</value>
+  </data>
+  <data name="Settings_App_Setting_Language.Header" xml:space="preserve">
+    <value>Taal</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Herstel naar standaardinstellingen</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>Ja, herstel standaardinstellingen</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>Alle instellingen zullen worden hersteld naar de standaardinstellingen. Wil je hiermee door gaan?</value>
+  </data>
+  <data name="Settings_LanguageOptions_LanguageNotSelected.Text" xml:space="preserve">
+    <value>Taal niet geselecteerd</value>
+  </data>
+  <data name="Settings_LanguageOptions_SystemLanguage.Text" xml:space="preserve">
+    <value>Gebruik systeemtaal</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Typ een sneltoets</value>
+  </data>
 </root>
