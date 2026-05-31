@@ -62,13 +62,13 @@
     <value>Traductor de Google</value>
   </data>
   <data name="Settings_GoogleTranslate_Setting_From.Header" xml:space="preserve">
-    <value>Traducir desde</value>
+    <value>Translate from</value>
   </data>
   <data name="Settings_GoogleTranslate_Setting_From.Description" xml:space="preserve">
-    <value>To switch between languages use switch keyboard layout</value>
+    <value></value>
   </data>
   <data name="Settings_GoogleTranslate_Setting_To.Header" xml:space="preserve">
-    <value>Translation</value>
+    <value></value>
   </data>
   <data name="Settings_GoogleTranslate_Setting_To.Description" xml:space="preserve">
     <value>To switch your language use switch keyboard layout</value>
