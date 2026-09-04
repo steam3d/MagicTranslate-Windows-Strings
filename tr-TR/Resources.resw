@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,187 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Settings_GoogleTranslate_Header.Header" xml:space="preserve">
+    <value>Google çeviri</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_From.Header" xml:space="preserve">
+    <value>Şuradan çevir</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_From.Description" xml:space="preserve">
+    <value>Diller arasında geçiş yapmak için klavye düzenini değiştirin</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Header" xml:space="preserve">
+    <value>Şuna çevir</value>
+  </data>
+  <data name="Settings_GoogleTranslate_Setting_To.Description" xml:space="preserve">
+    <value>Diller arasında geçiş yapmak için klavye düzenini değiştirin</value>
+  </data>
+  <data name="Settings_Hotkeys_Header.Header" xml:space="preserve">
+    <value>Kısayol tuşları</value>
+  </data>
+  <data name="Settings_App_Header.Header" xml:space="preserve">
+    <value>Uygulama ayarları</value>
+  </data>
+  <data name="Settings_App_Setting_Background.Header" xml:space="preserve">
+    <value>Arka Plan</value>
+  </data>
+  <data name="Settings_App_Setting_Startup.Header" xml:space="preserve">
+    <value>Başlangıçta çalıştır</value>
+  </data>
+  <data name="Settings_App_Setting_Theme.Header" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Acrylic.Text" xml:space="preserve">
+    <value>Akrilik</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Mica.Text" xml:space="preserve">
+    <value>Mika</value>
+  </data>
+  <data name="Settings_BackgroundOptions_MicaAlt.Text" xml:space="preserve">
+    <value>Mika alternatif</value>
+  </data>
+  <data name="Settings_BackgroundOptions_Off.Text" xml:space="preserve">
+    <value>Kapalı</value>
+  </data>
+  <data name="Settings_Hotkeys_Setting_OpenTranslateWindow.Header" xml:space="preserve">
+    <value>Çeviri penceresini aç</value>
+  </data>
+  <data name="Settings_ThemeOptions_Dark.Text" xml:space="preserve">
+    <value>Koyu</value>
+  </data>
+  <data name="Settings_ThemeOptions_Light.Text" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="Settings_ThemeOptions_System.Text" xml:space="preserve">
+    <value>Sistem temasını kullan</value>
+  </data>
+  <data name="Settings_App_Setting_Debug.Header" xml:space="preserve">
+    <value>Hata ayıklama</value>
+  </data>
+  <data name="Settings_App_Setting_Language.Header" xml:space="preserve">
+    <value>Dil</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings.Header" xml:space="preserve">
+    <value>Varsayılan ayarlara sıfırla</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetButton.Content" xml:space="preserve">
+    <value>Evet, ayarları sıfırla</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_Button_Flyout_ResetMessage.Text" xml:space="preserve">
+    <value>Tüm ayarlar sıfırlanacak. Devam etmek istiyor musunuz?</value>
+  </data>
+  <data name="Settings_App_Setting_ResetSettings_ResetButton.Content" xml:space="preserve">
+    <value>Sıfırla</value>
+  </data>
+  <data name="Settings_LanguageOptions_LanguageNotSelected.Text" xml:space="preserve">
+    <value>Dil seçilmedi</value>
+  </data>
+  <data name="Settings_LanguageOptions_SystemLanguage.Text" xml:space="preserve">
+    <value>Sistem dilini kullan</value>
+  </data>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Bir kısayol tuşu girin</value>
+  </data>
+  <data name="HotkeyBox_Input.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Win, Shift, Alt veya Ctrl tuşunu ekleyin</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Kısayol tuşunu kaldır</value>
+  </data>
+  <data name="Search_SearchBox_Placeholder" xml:space="preserve">
+    <value>{0} dilinden {1} diline çevir</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Exit.Text" xml:space="preserve">
+    <value>Çıkış</value>
+  </data>
+  <data name="Taskbar_MenuFlyout_Settings.Text" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="Taskbar_TaskbarIcon_ToolTipText" xml:space="preserve">
+    <value>Çevirmek için çift tıklayın</value>
+  </data>
+  <data name="Taskbar_TaskbarIcon_ToolTipText_Hotkey" xml:space="preserve">
+    <value>Çevirmek için çift tıklayın veya {0} tuşuna basın</value>
+  </data>
+  <data name="Settings_About_MagicPods.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>AirPods'unuza biraz sihir katın</value>
+  </data>
+  <data name="Settings_About_MagicSelect.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Herhangi bir resimden metni kopyala</value>
+  </data>
+  <data name="Settings_About_YAD.[using:Microsoft.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
+    <value>Tehlikeli bir macera oyununda koş, zıpla ve kaç</value>
+  </data>
+  <data name="Settings_Support_Header.Header" xml:space="preserve">
+    <value>Destek ve topluluk</value>
+  </data>
+  <data name="Settings_Support_Setting_Discord.Description" xml:space="preserve">
+    <value>Topluluğumuza katılın, hataları bildirin, haberler, güncellemeler ve tartışmalardan haberdar olun</value>
+  </data>
+  <data name="Settings_Support_Setting_Discord.Header" xml:space="preserve">
+    <value>Topluluk</value>
+  </data>
+  <data name="Settings_Support_Setting_Weblate.Description" xml:space="preserve">
+    <value>Çevirin, düzenleyin veya yeni diller ekleyin</value>
+  </data>
+  <data name="Settings_Support_Setting_Weblate.Header" xml:space="preserve">
+    <value>Uygulamayı çevir</value>
+  </data>
+  <data name="Search_TeachingTip_Buttons_Finish" xml:space="preserve">
+    <value>Anladım</value>
+  </data>
+  <data name="Search_TeachingTip_Buttons_Next" xml:space="preserve">
+    <value>İleri</value>
+  </data>
+  <data name="Search_TeachingTip_Buttons_Settings" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="Search_TeachingTip_OpenSettings.Subtitle" xml:space="preserve">
+    <value>Çeviri dilini, görünümü ve klavye kısayollarını yapılandırmak için sistem tepsisi simgesine sağ tıklayıp «{0}» seçin veya çeviri penceresindeyken {1} kısayolunu kullanın</value>
+  </data>
+  <data name="Search_TeachingTip_SwitchLanguage.Subtitle" xml:space="preserve">
+    <value>Dili değiştirmek için mevcut klavye düzeninizi değiştirin</value>
+  </data>
+  <data name="Search_TeachingTip_TranslationResult.Subtitle" xml:space="preserve">
+    <value>Çeviri sonuçları seçilebilir ve kopyalanabilir</value>
+  </data>
+  <data name="Search_TeachingTip_Welcome.Subtitle" xml:space="preserve">
+    <value>Uygulamayı açarak, sistem tepsisi simgesine çift tıklayarak veya {0} kısayol tuşuna basarak çeviriye başlayabilirsiniz</value>
+  </data>
+  <data name="Search_TeachingTip_Welcome.Title" xml:space="preserve">
+    <value>MagicTranslate'e hoş geldiniz</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Başlangıçta çalıştırma, grup ilkesi tarafından devre dışı bırakılmış veya bu cihazda desteklenmiyor.</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Başlangıçta çalıştırma, grup ilkesi tarafından devre dışı bırakılmış</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Windows ayarlarında Uygulamalar sayfasını açın, «Başlangıç» bölümüne gidin, «{0}» seçeneğini etkinleştirin ve uygulamayı yeniden başlatın.</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Başlangıç bölümüne git</value>
+  </data>
+  <data name="Settings_App_Setting_Startup_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Başlangıçta çalıştırma manuel olarak devre dışı bırakıldı</value>
+  </data>
+  <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Ayarları uygulamak için uygulamayı yeniden başlatın</value>
+  </data>
+  <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Yeniden Başlat</value>
+  </data>
+  <data name="Settings_App_Setting_Common_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Yeniden başlatma gerekli</value>
+  </data>
 </root>
